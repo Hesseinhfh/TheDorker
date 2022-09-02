@@ -26,3 +26,6 @@ bash Dork
 
 [![Test](https://img.shields.io/badge/tested%20on-Termux,%20Kali%20Linux,%20Ubuntu,%20Parrot%20OS,%20Debian,%20ANDRAX%20Mobile-%23ff69b4.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
  
+التواصل مع المطور حسين https://api.whatsapp.com/send?phone=+201010094739 https://t.me/h@nzbjdhgsg
+
+/
